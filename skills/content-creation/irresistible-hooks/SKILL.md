@@ -1,11 +1,11 @@
 ---
 name: irresistible-hooks
-description: Write, rewrite, and critique high-retention hooks for short-form video, YouTube, ads, product demos, creator content, and social video using curiosity-loop psychology. Use whenever the user asks for a hook, opening, first few seconds, scroll-stopper, stronger intro, retention-focused rewrite, or wants a script to make viewers keep watching, even if they never use the word "hook".
+description: Write, rewrite, and critique high-retention hooks for short-form video, YouTube, ads, product demos, creator content, and social video using curiosity-loop psychology. Use whenever the user asks for a hook, opening, first few seconds, scroll-stopper, stronger intro, retention-focused rewrite, or wants a script to make viewers keep watching, even if they never use the word "hook". Do NOT use for full scripts when the opening is not part of the task, or for titles and thumbnails unless the user also wants the opening hook.
 ---
 
 # Irresistible hooks
 
-Create hooks that earn attention by opening a curiosity loop and then paying it off with real value. Do not substitute a list of generic "viral hook" templates for reasoning about the viewer, topic, and payoff.
+Create hooks that earn attention by opening a curiosity loop and paying it off with real value. Do not substitute a list of generic "viral hook" templates for reasoning about the viewer, topic, and payoff.
 
 ## Before writing
 
@@ -21,15 +21,13 @@ If details are missing but a useful hook can still be written, make conservative
 
 ## Build the hook
 
-The examples below are adapted from the supplied transcript of *How to Create Irresistible Hooks (and blow up your content)*. Use them to understand the mechanism, not as scripts to copy.
-
 ### 1. Find the payoff first
 
 Start with the most compelling true idea, result, reveal, or proof in the content. The hook should point toward that payoff. If the body cannot deliver the promise, weaken the hook rather than overpromise.
 
-**Transcript example.** In the Sphere example, the giant screen is the setup, but the real payoff is that the audio is even more impressive. The creator first decides what the reveal is, then writes the opening so the screen creates the expectation that the audio later overturns.
+**Example: Las Vegas Sphere technology.** Suppose the obvious visual is the venue's enormous screen, but the more surprising fact you plan to explain is that the audio system is even more impressive. Treat the audio reveal as the payoff. Build the opening around the giant screen so the later audio reveal has something meaningful to overturn.
 
-**Second example.** The hook of the source video itself rejects a generic list of viral hooks and promises the psychology and tactics behind why hooks work. The deeper explanation is the payoff, so the opening points toward that rather than toward a listicle.
+**Example: hook-writing tutorial.** Suppose the useful insight is not a list of canned hook phrases, but the psychology behind why hooks work and how to apply it. The opening should promise the underlying method, not pretend the main value is a listicle.
 
 ### 2. Write the context lean
 
@@ -48,9 +46,23 @@ Create the lean with one of these when it fits:
 
 Prefer the viewer's desired outcome over technical background. For a niche topic, wrap the unknown idea in something familiar before introducing jargon.
 
-**Transcript example.** The Sphere hook opens with the idea that its technology is extraordinary, then makes the scale concrete by saying the screen is the biggest ever built and roughly 20 times larger than an IMAX. Topic clarity comes first: Sphere technology. The comparison gives the viewer a familiar reference point.
+**Example: scale through a familiar comparison.**
 
-**Benefit-first example.** For magnesium content, the transcript contrasts a mechanism-first opening about magnesium being a core mineral with a benefit-first opening about getting better sleep. The lesson is to lead with the outcome the target viewer already wants, then introduce the mechanism.
+> "The tech inside the Las Vegas Sphere is wild. Its screen is roughly 20 times larger than an IMAX."
+
+The topic is immediately clear: Sphere technology. The IMAX comparison gives the viewer a familiar scale reference.
+
+**Example: benefit-first framing.**
+
+Weak:
+
+> "Magnesium is one of the body's core minerals."
+
+Stronger:
+
+> "If you want better sleep, magnesium is worth understanding."
+
+The stronger version begins with the outcome the viewer cares about, then introduces the mechanism.
 
 ### 3. Add the scroll-stop interjection
 
@@ -58,9 +70,17 @@ Insert one short line that interrupts the direction established by the context l
 
 The line should create tension, not empty drama. It is a setup for the next sentence.
 
-**Transcript example.** After building up the Sphere's giant screen, the hook pivots with "But get this" and says the screen is actually the least impressive part. The interjection works because it breaks the direction the viewer had just accepted.
+**Example: reverse the expected focus.**
 
-**Second example.** The source video's own opening uses "But here's the thing" before rejecting the familiar promise of a list of proven viral hooks. That line prepares the viewer for the deeper psychology angle that follows.
+> "But get this: the screen is actually the least impressive part."
+
+The viewer has just been told how extraordinary the screen is. This line interrupts that direction and creates a specific question: what could be more impressive?
+
+**Example: reject the familiar answer.**
+
+> "But here's the thing: another list of viral hooks is not what you need."
+
+The viewer expects a list. The interjection blocks that expectation so the next line can introduce a deeper method.
 
 ### 4. Deliver the contrarian snapback
 
@@ -75,19 +95,62 @@ A strong snapback is:
 
 The contrast can be large or small. Do not force a dramatic contrarian claim when the material only supports a modest surprise.
 
-**Transcript example.** The Sphere setup makes the screen look like the star. The snapback reveals that the audio is the more impressive part. It stays on the same topic, Sphere technology, but changes the viewer's mental path from visual spectacle to sound.
+**Example: screen to audio.**
 
-**Second example.** In the source video's meta-hook, the expected answer is "more proven hook templates." The snapback is that what the viewer actually needs is the psychology behind why those hooks worked and tactics for applying it.
+Setup:
+
+> "The Sphere has one of the most extreme screens ever built."
+
+Interjection:
+
+> "But the screen is not the most impressive part."
+
+Snapback:
+
+> "The audio system is."
+
+The topic stays the same, Sphere technology, but the viewer's mental path changes from visual spectacle to sound.
+
+**Example: templates to psychology.**
+
+Setup:
+
+> "You want better hooks."
+
+Interjection:
+
+> "But memorizing more templates won't fix that."
+
+Snapback:
+
+> "You need to understand why a hook creates curiosity, then build that mechanism into your own topic."
+
+The snapback replaces a familiar tactic with a deeper approach.
 
 ### 5. Compress speed to value
 
 Give the viewer a useful insight, proof point, example, or reveal in the hook or immediately after it. Do not bury the best material deep in the script.
 
-For short-form video, treat the opening seconds as scarce. For longer YouTube content, still prove value early rather than spending the opening on setup. Use these as pacing heuristics, not fixed platform rules.
+For short-form video, treat the first few seconds as scarce. As a rough working heuristic, try to demonstrate value within about four seconds. For longer YouTube content, aim to prove value within the first one to two minutes. These are pacing heuristics, not universal platform rules.
 
-**Transcript example.** The creator describes the desired rhythm as "give context, immediate value" and then repeat the loop. The practical implication is that once the hook creates curiosity, the next beat should already contain a useful fact, proof, or reveal instead of another paragraph of setup.
+Use a value loop:
 
-**Applied source example.** In the Sphere sequence, the hook does not merely say the venue is interesting. It immediately gives a concrete scale comparison, then quickly delivers the reversal toward the audio. The viewer gets information while the curiosity loop is still opening.
+1. Context
+2. Immediate value
+3. New context
+4. Another value beat
+
+**Example: do not delay the proof.**
+
+Slow:
+
+> "The Sphere is a fascinating venue with a lot of advanced technology. There are several systems worth discussing..."
+
+Faster:
+
+> "Its screen is about 20 times larger than an IMAX. And that is not even the most impressive part."
+
+The second version gives the viewer a concrete fact before asking for more attention.
 
 ### 6. Layer the visual hook
 
@@ -99,23 +162,47 @@ When the output is video, pair the spoken hook with:
 
 The spoken line, title text, and visual should reinforce the same idea rather than compete for attention.
 
-**Transcript example.** In the life-size floor-plan video, the creator uses on-screen text such as "Future of Home Design" and labels the life-size floor plans with arrows. The more familiar phrase establishes context before the niche term has to do the work.
+**Example: unfamiliar concept made legible.**
 
-**Motion example.** The transcript also points to a Ray-Ban Meta clip as an example of motion that grabs attention without continuing so aggressively that the spoken point becomes hard to follow. Treat this as a balance: enough movement to stop the scroll, then enough visual stability to understand the message.
+Suppose the video shows a room-sized floor plan projected at life scale. Instead of opening with the niche label "life-size floor plans" alone:
+
+- On-screen text: `Future of Home Design`
+- Visual: a person walking through the projected room outline
+- Secondary label or arrow: `Life-size floor plan`
+
+The familiar phrase explains why the viewer should care before the technical label has to carry the meaning.
+
+**Example: motion without chaos.**
+
+If the opening visual is a person putting on smart glasses in front of a mirror, use the movement to catch attention, then let the frame settle while the spoken point lands. Too little motion feels static. Too much motion competes with comprehension.
 
 ### 7. Tighten the opening rhythm
 
 Make the first sentences staccato: short, clear, and dense with meaning. Short sentences force clarity when attention is most fragile. Let sentence length expand later once the viewer is oriented.
 
-**Transcript example.** The Sphere opening is delivered as compact beats: the technology is insane, it has the biggest screen ever built, and it is about 20 times larger than an IMAX. Each sentence carries one idea. The rhythm can widen after the viewer understands the premise.
+Weak:
+
+> "The Las Vegas Sphere is a technologically advanced entertainment venue that contains a very large display and a range of other systems that are interesting to examine."
+
+Stronger:
+
+> "The Sphere is absurd. Biggest screen ever built. Roughly 20 times larger than an IMAX."
+
+Each beat carries one idea. Once the viewer understands the premise, sentence length can widen.
 
 ## Use common ground deliberately
 
-For complex or unfamiliar topics, use a known brand, person, cultural reference, category, or familiar situation as a bridge. The source framework calls this "cult hopping".
+For complex or unfamiliar topics, wrap the unknown idea in something the target viewer already knows. This technique can use a familiar brand, person, cultural reference, category, product, or everyday situation as a bridge.
+
+You can call this **cult hopping**: use an existing cultural frame to make a niche idea easier to enter.
 
 Use it only when the reference makes the idea easier to understand. Do not add celebrities or brands merely for borrowed attention.
 
-**Transcript example.** For complex tax-planning content, the creator suggests framing the idea through how Taylor Swift's financial adviser might handle estate planning around major tour earnings. The celebrity reference is useful only because it gives the audience a familiar frame for an otherwise abstract financial topic.
+**Example: complex estate planning.** Instead of opening with abstract tax-planning terminology, frame the problem through a familiar high-income case:
+
+> "Imagine you are planning Taylor Swift's estate right after a massive tour payout. Where does that money go, and what would you protect first?"
+
+The celebrity is not the subject. The familiar frame makes a difficult financial topic easier to picture.
 
 ## Output behavior
 
@@ -148,4 +235,4 @@ Before returning a hook, verify:
 - Video outputs have aligned spoken, text, and visual hooks.
 - Any cultural reference makes the idea clearer rather than noisier.
 
-For deeper rationale, variations, and examples, read `references/framework.md`.
+For deeper rationale, variations, and diagnostic patterns, read `references/framework.md`.
