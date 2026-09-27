@@ -12,4 +12,4 @@ Write, rewrite, and critique high-retention hooks for short-form video, YouTube,
 npx skills add https://github.com/antctt/tonys-skills --skill irresistible-hooks
 ```
 
-Source: `skills/irresistible-hooks/`
+Source: `skills/content-creation/irresistible-hooks/`
