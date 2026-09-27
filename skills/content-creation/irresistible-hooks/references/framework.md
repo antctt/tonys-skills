@@ -1,20 +1,27 @@
 # Hook framework reference
 
-This reference distills the source transcript, "How to Create Irresistible Hooks (and blow up your content)", into reusable working principles.
-
-Source video: https://www.youtube.com/watch?v=LmXpbP7dD48
+Use this reference when the main skill instructions are not enough to diagnose or design a hook.
 
 ## The underlying model
 
-The core idea is a curiosity loop. Each line should make the viewer want the next line. The hook is not a bag of phrases. It is a sequence that controls what the viewer expects, interrupts that expectation, and then redirects it toward a stronger payoff.
+A strong hook creates a curiosity loop. Each line should make the viewer want the next line.
 
-The three-step verbal formula is:
+The hook is not a bag of catchy phrases. It is a sequence that:
+
+1. establishes what the content is about
+2. gives the right viewer a reason to care
+3. creates an expectation
+4. interrupts that expectation
+5. redirects attention toward a stronger payoff
+6. delivers value before attention runs out
+
+The three-step verbal core is:
 
 1. Context lean
 2. Scroll-stop interjection
 3. Contrarian snapback
 
-The rest of the framework improves how fast and clearly those three steps land.
+The remaining techniques improve how quickly and clearly those three steps land.
 
 ## 1. Context lean
 
@@ -28,21 +35,33 @@ The same lines should also create a lean. Good ways to do that include:
 - a metaphor that simplifies a hard concept
 - a surprising fact, object, or visual
 
-A weak opening often names the subject but gives no reason to care. A better opening connects the subject to the viewer's desired outcome.
+A weak opening often names the subject but gives no reason to care.
 
-Weak pattern:
+Weak:
 
 > "Today we're talking about database indexing."
 
-Stronger context lean:
+Stronger:
 
-> "If this query gets slower every week, your index is probably the reason."
+> "If this query gets slower every week, your index may be the reason."
 
-The second version gives the topic and a concrete pain point at once.
+The stronger version gives both the topic and a concrete pain point.
+
+Another example:
+
+Mechanism-first:
+
+> "Magnesium is one of the body's core minerals."
+
+Benefit-first:
+
+> "If you want better sleep, magnesium is worth understanding."
+
+The benefit-first version gives the target viewer a reason to stay before introducing the mechanism.
 
 ## 2. Scroll-stop interjection
 
-After the viewer starts moving in one direction, insert a short contrast line. The transcript describes this as a stun or stop sign before the larger reversal.
+After the viewer starts moving in one direction, insert a short contrast line. Think of it as a stop sign before the larger reversal.
 
 Typical structural words include:
 
@@ -52,7 +71,7 @@ Typical structural words include:
 - although
 - on the other hand
 
-The word itself is not the trick. The trick is the reversal it announces.
+The word itself is not the trick. The reversal it announces is the trick.
 
 Weak:
 
@@ -62,23 +81,73 @@ Stronger:
 
 > "But the index isn't actually the part slowing this query down."
 
+The stronger line creates a concrete information gap.
+
+A second pattern:
+
+> "You probably expect a list of proven templates. But another list is not what you need."
+
+That line works because it interrupts a familiar expectation.
+
 ## 3. Contrarian snapback
 
-Now redirect the viewer onto a different path while staying on topic. The transcript's example starts by emphasizing a giant screen, then reveals that the audio system is the more impressive part. The viewer has to update their mental model.
+Now redirect the viewer onto a different path while staying on topic.
 
-The useful pattern is:
+Useful pattern:
 
 > The obvious explanation is X. But X is not the main thing. The real driver is Z.
 
-Another form is:
+Another form:
 
 > If you want X, don't default to Y. Do Z instead.
 
 Only use that structure when Z is genuinely compelling and defensible. A false or trivial reveal breaks trust.
 
+### Full worked example: Las Vegas Sphere
+
+Context lean:
+
+> "The tech inside the Las Vegas Sphere is wild. Its screen is roughly 20 times larger than an IMAX."
+
+Scroll-stop interjection:
+
+> "But the screen is actually the least impressive part."
+
+Contrarian snapback:
+
+> "The audio system is."
+
+Why it works:
+
+- The topic is clear immediately.
+- The IMAX comparison creates scale using familiar knowledge.
+- The viewer is led toward the screen as the obvious star.
+- The interjection breaks that direction.
+- The audio reveal opens a new question the body can answer.
+
+### Full worked example: hook education
+
+Context lean:
+
+> "If you want your videos to perform better, you need stronger hooks."
+
+Scroll-stop interjection:
+
+> "But another list of 25 viral templates won't teach you that."
+
+Contrarian snapback:
+
+> "You need to understand the psychology that makes a hook work, then apply it to your own topic."
+
+Why it works:
+
+- The benefit is immediate: better-performing videos.
+- The interjection rejects a familiar solution.
+- The snapback promises a deeper and more reusable method.
+
 ## 4. Visual hooks
 
-The source argues that visual hooks can carry more immediate information than spoken words. It recommends combining three layers:
+Visual information can establish context before a spoken sentence finishes. Combine three layers:
 
 - short title text
 - a compelling visual
@@ -86,7 +155,19 @@ The source argues that visual hooks can carry more immediate information than sp
 
 For title text, compress the context into roughly 3 to 5 words. Prefer a phrase the viewer already understands over a niche label that requires explanation.
 
-Example for a recruiting-data product demo:
+### Example: life-size floor plans
+
+Suppose the video shows a projected architectural floor plan at real-world scale.
+
+Use:
+
+- On-screen text: `Future of Home Design`
+- Visual: a person walking through the projected room boundaries
+- Arrow label: `Life-size floor plan`
+
+The broad phrase establishes why the visual matters. The niche term can come second.
+
+### Example: recruiting-data product demo
 
 - Spoken: "They had 103,482 candidates. The problem wasn't finding resumes. It was deciding who actually fit."
 - On-screen text: `103,482 → 18`
@@ -110,23 +191,32 @@ The second line gives the viewer a reason to learn about the mechanism.
 
 ## 6. Cult hopping
 
-The transcript uses "cult hopping" for borrowing a familiar cultural frame to explain an unfamiliar or niche idea. This can be a brand, celebrity, movement, product, or situation the target viewer already knows.
+Cult hopping means borrowing a familiar cultural frame to explain an unfamiliar or niche idea. This can be a brand, celebrity, movement, product, profession, or situation the target viewer already knows.
 
-Use this to reduce cognitive load, not to force trend references into every hook.
+Use it to reduce cognitive load, not to force trend references into every hook.
 
-Good use:
+Good:
 
 > "Think of it like a SQL WHERE clause, except the condition is a human judgment."
 
-Poor use:
+Good for a nontechnical audience:
 
-> Mentioning a celebrity in a developer tutorial when the reference does not explain anything.
+> "Imagine you are planning Taylor Swift's estate after a massive tour payout. What would her adviser protect first?"
+
+Poor:
+
+> Mentioning a celebrity in a developer tutorial when the reference does not clarify the concept.
 
 ## 7. Compress speed to value
 
-The source treats attention as a countdown. Its rough heuristic is about four seconds for short-form content and roughly one to two minutes for YouTube before the viewer needs meaningful value. Treat those numbers as the creator's rule of thumb, not universal platform data.
+Treat attention as a countdown.
 
-The operational rule is more durable: give an initial hit of value before attention expires.
+As rough working heuristics:
+
+- short-form: demonstrate meaningful value within about 4 seconds
+- longer YouTube: prove meaningful value within roughly 1 to 2 minutes
+
+These are not universal platform rules. The durable principle is to give an initial hit of value before attention expires.
 
 A useful sequence is:
 
@@ -136,6 +226,16 @@ A useful sequence is:
 4. Another value beat
 
 This creates a value loop alongside the curiosity loop.
+
+Weak:
+
+> "There are many interesting things about this venue, and first we should understand its history..."
+
+Stronger:
+
+> "Its screen is roughly 20 times larger than an IMAX. And that is not even the most impressive part."
+
+The stronger version gives information immediately while preserving curiosity.
 
 ## 8. Staccato openings
 
@@ -148,6 +248,16 @@ Weak:
 Stronger:
 
 > "They had 103,482 candidates. Too many to review. Keywords weren't enough."
+
+Another example:
+
+Weak:
+
+> "The Las Vegas Sphere is an entertainment venue with several unusually advanced technical systems that make it interesting."
+
+Stronger:
+
+> "The Sphere is absurd. Biggest screen ever built. Roughly 20 times larger than an IMAX."
 
 Sentence length can widen later after the viewer understands the premise.
 
@@ -177,12 +287,14 @@ Structure:
 3. **Snapback**: show the new mechanism or result.
 4. **Value beat**: immediately demonstrate the transformation on screen.
 
-Example skeleton:
+Example:
 
-> "They had [large messy input]. [Obvious method] should have solved it. But it couldn't answer the judgment call. So they turned each row into a structured decision instead."
+> "They had 103,482 candidates. Search should have solved it. But keywords couldn't answer who actually fit the role. So they turned each row into structured judgments instead."
 
-Then show the result immediately.
+Then show the transformation immediately.
 
 ## Integrity rule
 
-Curiosity only works when the payoff is worth the wait. If the hook promises a surprise, the next section must deliver one. If it promises a result, show evidence. If the content has no strong reversal, use a smaller truthful contrast rather than manufacturing a fake one.
+Curiosity only works when the payoff is worth the wait.
+
+If the hook promises a surprise, the next section must deliver one. If it promises a result, show evidence. If the content has no strong reversal, use a smaller truthful contrast rather than manufacturing a fake one.
