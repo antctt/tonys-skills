@@ -13,8 +13,6 @@ A strong Reddit post should still be worth reading if the product link disappear
 
 ## Principles
 
-Work from these rules:
-
 - Lead with the community's problem, curiosity, or interest, not the product.
 - Give useful information before asking for a click, signup, or feedback.
 - Write like a normal participant, not a press release.
@@ -22,16 +20,16 @@ Work from these rules:
 - Adapt the angle and wording to each subreddit.
 - Keep product mentions proportionate to the value in the post.
 - Stay in the thread and reply after posting.
-- Measure traffic, signups, conversations, and conversions, not only upvotes.
+- Measure business outcomes, not only upvotes.
 - Respect subreddit rules.
 
-Do not invent customer results, metrics, credentials, subreddit rules, or personal experiences.
+Do not invent metrics, customer results, credentials, subreddit rules, or personal experiences.
 
 Do not create fake identities, pretend to be an unrelated customer, coordinate votes, or recommend reposting removed content to evade moderators.
 
 ## Keep disclosure natural
 
-Do not automatically add stiff boilerplate such as "full disclosure" to every post. It often makes the writing feel like marketing copy.
+Do not automatically add stiff boilerplate such as "full disclosure" to every post.
 
 If the poster's involvement is relevant, weave it into the story naturally:
 
@@ -46,7 +44,7 @@ If a subreddit requires a specific disclosure format, follow its rule. Never mak
 
 Identify what success means before choosing a tactic.
 
-Common goals:
+Typical goals:
 
 - validate a problem
 - get first users
@@ -58,82 +56,65 @@ Common goals:
 - research competitors
 - build founder credibility
 - create search visibility
-- build a niche community
 
-The goal changes the post.
-
-A validation post should invite honest discussion. A launch post should make the launch useful to the subreddit. A traffic post needs enough standalone value that the link feels like a natural next step.
+The goal changes the post. A validation post should invite honest discussion. A traffic post needs enough standalone value that the link feels like a natural next step.
 
 ## Gather minimum context
 
-Infer as much as possible from the conversation before asking questions.
+Infer as much as possible before asking questions.
 
 Identify:
 
-- what the product does in one plain sentence
+- what the product does
 - who has the problem
 - what they do today instead
 - why the problem matters
-- the strongest proof available
-- the most interesting lesson or result
-- the stage: idea, MVP, launched, established
-- the desired action: comment, feedback, click, signup, demo, purchase
-- available assets: screenshots, video, benchmark, dataset, case study, quote
-- constraints: timing, geography, pricing, subreddit rules
+- strongest proof available
+- most interesting lesson or result
+- stage: idea, MVP, launched, established
+- desired action
+- available assets
+- timing, pricing, geography, or subreddit constraints
 
 Proceed with reasonable assumptions when enough context exists.
 
 ## Research communities
 
-When Reddit or web access is available, inspect real communities before recommending them.
+When Reddit or web access is available, inspect the real communities before recommending them.
 
-For each candidate subreddit, check:
+Check:
 
 - rules
-- link policy
-- self-promotion policy
+- link and self-promotion policy
 - required flair
 - activity
-- recent post frequency
 - top posts
 - common tone
 - recurring questions
-- whether founder/build posts perform
-- whether case studies, data, or guides perform
-- how promotional posts are received
+- how founder, case-study, data, and promotional posts are received
 
 If current research is unavailable, distinguish assumptions from verified facts.
 
-### Find communities from the problem
-
-Search more than the product category.
-
-Look for:
+Search for communities through:
 
 - target role or profession
-- problem being solved
+- core problem
 - existing workflow
 - competitor names
 - alternatives
 - adjacent tools
-- jobs-to-be-done
 - common complaints
 - repeated questions
 
 Use Reddit search, search engines, and Reddit Ads community suggestions when available.
 
-Build a mix of:
-
-- narrow, high-fit communities
-- broader communities where the story or lesson itself is interesting
-
-A smaller subreddit with concentrated problem relevance can be more valuable than a huge generic one.
+Build a mix of narrow, high-fit communities and broader communities where the story itself is interesting.
 
 ## Read the room
 
 Before writing for a subreddit:
 
-1. Read its rules.
+1. Read the rules.
 2. Inspect top posts from the past month.
 3. Inspect top posts from the past year.
 4. Open several posts similar to the planned format.
@@ -141,37 +122,27 @@ Before writing for a subreddit:
 6. Search the subreddit for the core problem and competitors.
 7. Note the exact language people use.
 
-Study:
-
-- headline patterns
-- post length
-- preferred formats
-- tone
-- acceptable promotion
-- repeated topics
-- common objections
+Study headline patterns, post length, tone, accepted formats, repeated topics, and common objections.
 
 Do not repeat a tired topic without a new result, example, dataset, or lesson.
 
 ## Choose a native angle
 
-The strongest angle usually makes the product secondary to something interesting.
-
-Prefer:
+Prefer a post type that makes the product secondary to something interesting.
 
 ### Case study
-Explain what happened, what changed, and what someone else can learn.
+Explain what happened, what changed, and what others can learn.
 
 ### Build story
-Start from a real problem the user experienced and show the attempts, failures, and eventual solution.
+Start from a real problem and show attempts, failures, and the eventual solution.
 
 ### Original data or experiment
-Share a benchmark, before/after result, dataset, cost breakdown, model comparison, or repeated test.
+Share a benchmark, before/after result, dataset, cost breakdown, or comparison.
 
 ### Teardown
 Analyze a workflow, campaign, interface, product, or public example.
 
-### Comprehensive guide
+### Guide
 Teach a workflow from experience.
 
 ### Behind the scenes
@@ -183,7 +154,7 @@ Ask only when the user genuinely wants answers. Do not use a fake question as an
 ### Useful comparison
 Compare approaches with explicit criteria. Do not manufacture a comparison just to make the user's product win.
 
-For detailed examples and transformations, read `references/playbook.md`.
+For detailed examples, read `references/playbook.md`.
 
 ## Write the title
 
@@ -223,13 +194,13 @@ A strong default:
 3. Deliver something useful early.
 4. Show the process, evidence, or lessons.
 5. Introduce the product only where it becomes relevant.
-6. End with a real discussion prompt, useful resource, or next step.
+6. End with a real discussion prompt, resource, or next step.
 
-Do not force this exact shape when the subreddit has a stronger native format.
+Do not force this shape when the subreddit has a stronger native format.
 
 ### Product mention
 
-Use a transition that answers "why is this relevant here?"
+The transition should answer "why is this relevant here?"
 
 Examples:
 
@@ -241,14 +212,14 @@ Examples:
 
 ### Links
 
-Choose placement based on the subreddit and the post:
+Choose placement based on the subreddit and post:
 
 - no link, product name only
 - link in body
 - link at end
 - link in comment
 - link only when someone asks
-- link to a useful supporting resource
+- link to a supporting resource
 
 Use UTM parameters when traffic measurement matters.
 
@@ -301,96 +272,49 @@ For a technical subreddit, emphasize implementation and failure modes.
 
 For a founder subreddit, emphasize validation, distribution, economics, and lessons.
 
-For an industry subreddit, emphasize the actual workflow and domain problem.
+For an industry subreddit, emphasize the workflow and domain problem.
 
 Do not paste the same body across communities.
 
-## Use volume without spamming
+## Build volume without spamming
 
 Post performance is noisy, so repeated experiments matter.
 
 A useful starting cadence is roughly 2 to 3 substantial posts per week across the account, adjusted for community rules and the user's ability to respond.
 
-Rotate formats:
-
-- case study
-- data post
-- question
-- teardown
-- guide
-- behind the scenes
-- launch retrospective
-- comment-led participation
+Rotate formats instead of repeating the same pitch.
 
 Do not treat cadence as a loophole for flooding communities.
 
 ## Participate outside your own posts
 
-Promotion works better when the account is useful between launches.
+Good participation includes:
 
-Good participation:
-
-- answer questions where you have firsthand knowledge
-- add missing context
-- explain a tradeoff
-- give feedback
-- share a useful example
-- point to relevant resources
+- answering questions where you have firsthand knowledge
+- adding missing context
+- explaining a tradeoff
+- giving useful feedback
+- sharing an example
+- pointing to relevant resources
 
 The objective is to understand the community and contribute, not simulate trust.
 
 ## Use Reddit for research
 
-Reddit is useful even without posting.
-
-### Pain-point mining
-
-Collect:
+Reddit can reveal:
 
 - repeated complaints
 - workarounds
 - confusing terminology
 - desired features
-- phrases people use
 - objections
 - switching triggers
+- competitor strengths and weaknesses
+- emerging trends
 
-Use these findings in:
+Use these findings to improve positioning, landing-page copy, roadmap decisions, sales language, and future posts.
 
-- positioning
-- landing page copy
-- product roadmap
-- sales language
-- future posts
-
-### Competitor research
-
-Search competitors and category terms.
-
-Look for:
-
-- why people switch
-- what users love
-- what they hate
-- missing features
-- pricing complaints
-- trust issues
-- integration problems
-- common alternatives
-
-Distinguish patterns from one-off opinions.
-
-### Trend detection
-
-Watch for:
-
-- repeated new questions
-- new tools mentioned often
-- sudden frustration with a workflow
-- unusual use cases
-- new language entering the niche
-
-These can become content, features, or experiments.
+For research workflows and tracking templates, read `references/playbook.md`.
 
 ## Handle comments
 
@@ -408,31 +332,9 @@ After publishing:
 
 If criticism is justified, respond to the substance instead of getting defensive.
 
-## Paid promotion
-
-If the user wants Reddit ads, treat paid as an extension of community-native content.
-
-Prefer:
-
-- creative based on organic angles that already worked
-- tight community targeting
-- plain language
-- relevance to the target subreddit
-
-Do not copy an Instagram or LinkedIn ad unchanged.
-
-Organic teaches what resonates. Paid buys more reach for a proven angle.
-
 ## Measure what matters
 
-Track Reddit-native signals:
-
-- upvotes
-- comment quality
-- repeat commenters
-- thread longevity
-
-Track business outcomes:
+Track Reddit-native signals such as comment quality and thread longevity, but prioritize business outcomes:
 
 - referral traffic
 - UTM sessions
@@ -443,60 +345,39 @@ Track business outcomes:
 - qualified conversations
 - branded searches
 
-Also record:
-
-- subreddit
-- angle
-- title
-- format
-- date
-- link placement
-- result
-- main objection
-- next experiment
+Also record the subreddit, angle, title, format, link placement, result, main objection, and next experiment.
 
 ## Default campaign workflow
 
 When the user asks for a Reddit promotion plan:
 
-### Phase 1: research
+### Research
 - understand product, audience, and goal
 - find 10 to 15 relevant communities
 - inspect rules and top posts
 - narrow to 3 to 5 primary subreddits
 - extract recurring pain points and language
 
-### Phase 2: participate
+### Participate
 - join discussions where the user has useful knowledge
 - learn what gets rewarded and criticized
 - collect post ideas from real conversations
 
-### Phase 3: publish
-Create 2 to 3 different angles:
-- one value-heavy case study
-- one behind-the-scenes or experiment post
-- one question or discussion post
+### Publish
+Create several different angles, such as:
+- value-heavy case study
+- behind-the-scenes or experiment post
+- real discussion question
 
-Tailor each to one specific subreddit.
+Tailor each to one subreddit.
 
-### Phase 4: learn
-Track:
-- engagement
-- comment quality
-- clicks
-- signups
-- objections
-- follow-up questions
+### Learn
+Track engagement, comment quality, clicks, signups, objections, and follow-up questions.
 
-Use comments to write the next post.
+Use the comments to write the next post.
 
-### Phase 5: scale
-Double down on:
-- communities that produce qualified responses
-- angles that create discussion
-- formats that generate clicks or signups
-
-Expand to adjacent communities after a core angle shows promise.
+### Scale
+Double down on communities and angles that produce qualified responses. Expand to adjacent communities after the core angle shows promise.
 
 ## Output modes
 
@@ -534,40 +415,29 @@ Rewrite to:
 ### If asked for a campaign
 Return:
 - target communities
-- 3 to 5 content angles
+- content angles
 - posting sequence
 - adaptation notes
 - comment strategy
 - measurement plan
 
 ### If asked to critique
-Diagnose:
-- title
-- value before promotion
-- specificity
-- tone
-- subreddit fit
-- product placement
-- CTA
-- ad-like language
-
-Then rewrite it.
+Diagnose title, value before promotion, specificity, tone, subreddit fit, product placement, CTA, and ad-like language. Then rewrite it.
 
 ## Final check
 
-Before returning the work, ask:
+Before returning the work, verify:
 
-- Would this still be useful without the product link?
-- Does the title lead with an interesting idea instead of the product?
-- Is the first useful detail early?
-- Does it sound like a person rather than a brand?
-- Is there at least one concrete detail?
-- Is the product mention earned?
-- Is the post adapted to the subreddit?
-- Have current rules been checked when research is available?
-- Is the CTA proportionate?
-- Is there a plan to reply to comments?
-- Are claims supported by real information?
-- Have fake engagement, false identities, and ban-evasion tactics been avoided?
+- The post is useful without the product link.
+- The title leads with an interesting idea instead of the product.
+- Useful detail arrives early.
+- It sounds like a person rather than a brand.
+- It contains concrete evidence or experience.
+- The product mention feels earned.
+- The post is adapted to the subreddit.
+- Current rules were checked when research was available.
+- The CTA is proportionate.
+- Claims are supported by real information.
+- Fake engagement, false identities, and ban-evasion tactics are absent.
 
 Read `references/playbook.md` for campaign templates, transformations, subreddit adaptation examples, tracking, and a 12-week growth plan.
