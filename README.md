@@ -13,3 +13,13 @@ npx skills add https://github.com/antctt/tonys-skills --skill irresistible-hooks
 ```
 
 Source: `skills/content-creation/irresistible-hooks/`
+
+### reddit-promotion
+
+Plan, write, adapt, and critique Reddit-native organic promotion for products, startups, SaaS, launches, demos, research, and founder marketing.
+
+```bash
+npx skills add https://github.com/antctt/tonys-skills --skill reddit-promotion
+```
+
+Source: `skills/content-creation/reddit-promotion/`
